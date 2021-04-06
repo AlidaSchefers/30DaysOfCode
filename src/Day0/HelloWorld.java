@@ -1,4 +1,4 @@
-package HelloWorld;
+package Day0;
 
 import java.util.Scanner;
 
